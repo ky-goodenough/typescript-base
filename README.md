@@ -26,6 +26,17 @@ $ npm -v
   $ npx ts-node-dev --respawn src/index.ts
   ```
 
+- eslint
+
+  ```
+  npx eslint src/index.ts
+  ```
+
+- Prettier
+  
+  ```
+  npx prettier --write src/index.ts
+  ```
 
 ## 参考
 
